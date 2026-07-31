@@ -9,7 +9,7 @@ This project automates the customer service and order processing pipeline. The c
 
 ### Data Ingestion (Simulated Frontend):
 Customer data (inquiries, orders, complaints) flows directly into our tracking database, triggering the automated AI workflow.
-blob:https://gemini.google.com/8f5d7e5c-1c32-4147-b67a-40344263e472
+<img width="1280" height="800" alt="PHOTO-2026-07-30-06-05-25" src="https://github.com/user-attachments/assets/235fac5c-715f-4346-8cfd-a82ac914d27e" />
 
 
 ## 🚀 Features
