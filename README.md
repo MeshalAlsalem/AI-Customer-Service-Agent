@@ -25,12 +25,14 @@ Customer data (inquiries, orders, complaints) flows directly into our tracking d
 - **Gmail:** Outbound communication layer.
 
 ### Core Backend Architecture Visualized:
-blob:https://gemini.google.com/4188dfc1-b4e0-4732-ab40-bc59eda54163
+<img width="1280" height="800" alt="PHOTO-2026-07-30-06-02-00" src="https://github.com/user-attachments/assets/23b4e428-76ba-4454-ab1e-8e58495972a1" />
+
 
 
 ## ✨ The Final Result (AI-Generated Email)
 The AI intelligently analyzes the ingested data, detects discrepancies (like asking for chocolate cookies but selecting a different flavor option), and autonomously emails the customer for clarification.
-blob:https://gemini.google.com/7d8432ce-3d9e-48f4-8284-ee592de3d434
+<img width="654" height="1280" alt="PHOTO-2026-07-30-06-03-28" src="https://github.com/user-attachments/assets/027b6ce2-a84a-4e1b-8c3f-0aa0344b9c5a" />
+
 
 
 
